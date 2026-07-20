@@ -3,3 +3,10 @@
 # QuingKhaos' Modules Group
 
 Adds a Modules group to the crafting menu. For when you have to many modules somehow.
+
+The modules group creates the following subgroups by default:
+
+- `speed-module`
+- `efficiency-module`
+- `productivity-module`
+- `quality-module`
