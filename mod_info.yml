@@ -1,8 +1,9 @@
 mod_info:
-  title: "###TITLE###"
-  summary: "###DESC###"
+  title: "QuingKhaos' Modules Group"
+  summary: "Adds a Modules group to the crafting menu. For when you have to many modules somehow."
   description_file: README.md
   attach_source_link: true
-  license: gnugplv3
-  category: internal
-  tags: []
+  license: default_gnulgplv3
+  category: utilities
+  tags:
+    - manufacturing

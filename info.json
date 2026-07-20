@@ -1,7 +1,7 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "khaosmodulesgroup",
+  "title": "QuingKhaos' Modules Group",
+  "description": "Adds a Modules group to the crafting menu. For when you have to many modules somehow.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
@@ -9,11 +9,11 @@
   "dependencies": [
     "base >= 2.0.77",
 
-    "khaosbash",
-    "khaoslib"
+    "khaoslib >= 1.17.2"
   ],
   "package": {
     "ignore": [
+      "mod_info.yml",
       "**/*.svg",
       "**/*.xcf"
     ]
