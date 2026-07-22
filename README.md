@@ -15,6 +15,7 @@ The modules group creates the following subgroups by default:
 
 For the following mods, the ammo items are sorted into the new subgroups:
 
+- [Rigor Module](https://mods.factorio.com/mod/rigor-module)
 - [Tier 4 Modules](https://mods.factorio.com/mod/modules-t4)
 
 If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
