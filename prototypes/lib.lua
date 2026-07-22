@@ -9,6 +9,10 @@ local lib = {}
 function lib.update_subgroup(name, subgroup)
   khaoslib_item:load("module", name):set {subgroup = subgroup} :commit()
   khaoslib_recipe:load(name):set {subgroup = subgroup} :commit()
+
+  if mods["recycler"] then
+    khaoslib_recipe:load(name .. "-recycling"):set {subgroup = subgroup} :commit()
+  end
 end
 
 return lib
