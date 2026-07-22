@@ -15,6 +15,8 @@ The modules group creates the following subgroups by default:
 
 For the following mods, the ammo items are sorted into the new subgroups:
 
+- [Lignumis](https://mods.factorio.com/mod/lignumis)
+- [Precision Module (Lignumis)](https://mods.factorio.com/mod/precision-module)
 - [Rigor Module](https://mods.factorio.com/mod/rigor-module)
 - [Tier 4 Modules](https://mods.factorio.com/mod/modules-t4)
 
