@@ -13,7 +13,9 @@
 
     "khaoslib >= 1.17.2",
 
+    "? lignumis >= 1.10.0",
     "? modules-t4 >= 2.2.1",
+    "? precision-module >= 1.0.1",
     "? rigor-module >= 0.7.0"
   ],
   "package": {

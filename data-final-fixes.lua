@@ -1,2 +1,4 @@
+require("__khaosmodulesgroup__.prototypes.compat.lignumis-final-fixes")
 require("__khaosmodulesgroup__.prototypes.compat.modules-t4-final-fixes")
+require("__khaosmodulesgroup__.prototypes.compat.precision-module-final-fixes")
 require("__khaosmodulesgroup__.prototypes.compat.rigor-module-final-fixes")

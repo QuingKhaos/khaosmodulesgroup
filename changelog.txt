@@ -4,6 +4,8 @@ Date: ????
   Changes:
     - Set subgroup for recycling recipes too.
   Compatibility:
+    - Add support for Lignumis.
+    - Add support for Precision Module (Lignumis).
     - Add support for Rigor Module.
     - Add support for Tier 4 Modules.
 ---------------------------------------------------------------------------------------------------
