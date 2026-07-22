@@ -4,6 +4,7 @@ Date: ????
   Changes:
     - Set subgroup for recycling recipes too.
   Compatibility:
+    - Add support for Rigor Module.
     - Add support for Tier 4 Modules.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0

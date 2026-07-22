@@ -13,7 +13,8 @@
 
     "khaoslib >= 1.17.2",
 
-    "? modules-t4 >= 2.2.1"
+    "? modules-t4 >= 2.2.1",
+    "? rigor-module >= 0.7.0"
   ],
   "package": {
     "ignore": [
