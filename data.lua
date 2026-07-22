@@ -1,6 +1,5 @@
 local khaoslib_item_group = require("__khaoslib__.prototypes.item-group")
 local khaoslib_item_subgroup = require("__khaoslib__.prototypes.item-subgroup")
-local lib = require("__khaosmodulesgroup__.prototypes.lib")
 
 khaoslib_item_group:load {
   type = "item-group",
@@ -14,21 +13,3 @@ khaoslib_item_subgroup:load {type = "item-subgroup", name = "speed-module", grou
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "efficiency-module", group = "modules", order = "c[efficiency-module]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "productivity-module", group = "modules", order = "d[productivity-module]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "quality-module", group = "modules", order = "e[quality-module]"} :commit()
-
-lib.update_subgroup("speed-module", "speed-module")
-lib.update_subgroup("speed-module-2", "speed-module")
-lib.update_subgroup("speed-module-3", "speed-module")
-
-lib.update_subgroup("efficiency-module", "efficiency-module")
-lib.update_subgroup("efficiency-module-2", "efficiency-module")
-lib.update_subgroup("efficiency-module-3", "efficiency-module")
-
-lib.update_subgroup("productivity-module", "productivity-module")
-lib.update_subgroup("productivity-module-2", "productivity-module")
-lib.update_subgroup("productivity-module-3", "productivity-module")
-
-if mods["space-age"] then
-  lib.update_subgroup("quality-module", "quality-module")
-  lib.update_subgroup("quality-module-2", "quality-module")
-  lib.update_subgroup("quality-module-3", "quality-module")
-end
