@@ -12,7 +12,7 @@ lib.update_subgroup("productivity-module", "productivity-module")
 lib.update_subgroup("productivity-module-2", "productivity-module")
 lib.update_subgroup("productivity-module-3", "productivity-module")
 
-if mods["space-age"] then
+if mods["quality"] then
   lib.update_subgroup("quality-module", "quality-module")
   lib.update_subgroup("quality-module-2", "quality-module")
   lib.update_subgroup("quality-module-3", "quality-module")
