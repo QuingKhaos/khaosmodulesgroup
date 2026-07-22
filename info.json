@@ -11,7 +11,9 @@
     "? quality >= 2.1.11",
     "(?) recycler >= 2.1.11",
 
-    "khaoslib >= 2.0.0"
+    "khaoslib >= 2.0.0",
+
+    "? modules-t4 >= 2.2.3"
   ],
   "package": {
     "ignore": [
