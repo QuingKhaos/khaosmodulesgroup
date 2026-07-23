@@ -4,7 +4,7 @@
   "description": "Adds a Modules group to the crafting menu. For when you have to many modules somehow.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
@@ -16,7 +16,8 @@
     "? lignumis >= 2.3.3",
     "? modules-t4 >= 2.2.3",
     "? precision-module >= 1.0.4",
-    "? rigor-module >= 1.1.9"
+    "? rigor-module >= 1.1.9",
+    "? rubia >= 0.69.157"
   ],
   "package": {
     "ignore": [
