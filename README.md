@@ -18,6 +18,7 @@ For the following mods, the ammo items are sorted into the new subgroups:
 - [Lignumis](https://mods.factorio.com/mod/lignumis)
 - [Precision Module (Lignumis)](https://mods.factorio.com/mod/precision-module)
 - [Rigor Module](https://mods.factorio.com/mod/rigor-module)
+- [Rubia](https://mods.factorio.com/mod/rubia)
 - [Tier 4 Modules](https://mods.factorio.com/mod/modules-t4)
 
 If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.

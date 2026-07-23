@@ -16,7 +16,8 @@
     "? lignumis >= 1.10.0",
     "? modules-t4 >= 2.2.1",
     "? precision-module >= 1.0.1",
-    "? rigor-module >= 0.7.0"
+    "? rigor-module >= 0.7.0",
+    "? rubia >= 0.69.147"
   ],
   "package": {
     "ignore": [
