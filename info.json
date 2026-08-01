@@ -4,7 +4,7 @@
   "description": "Adds a Modules group to the crafting menu. For when you have to many modules somehow.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
